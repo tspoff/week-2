@@ -30,6 +30,7 @@ The transaction has a `txid` that ends with the six characters `04dfa3`. It was 
 Happy hunting!
 
 
+---
 
 *Exploratory Extra Credit:*
 
