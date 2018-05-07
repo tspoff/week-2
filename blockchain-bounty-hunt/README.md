@@ -23,6 +23,6 @@ You can also request the transaction to return in binary form (Hex encoded) usin
 
 The transaction has a `txid` that ends with the six characters `04dfa3`. It was mined sometime between on April 30th and May 2nd, 2018.
 
-Hint: API request limits for Blockchain.info are 28k requests per 8 hrs and 600 requests per 5m. Ping wisely...
+*Hint: API request limits for Blockchain.info are 28k requests per 8 hrs and 600 requests per 5m. Ping wisely...*
 
 Happy hunting!
